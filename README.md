@@ -9,9 +9,6 @@ Sales & Promotions: Highlight discounted products with clear pricing.
 
 Responsive UI: Clean layout optimized for desktop and mobile.
 
-🖥️ Screenshots
-Homepage	Product Catalog	Shopping Cart
-https://image.png	https://image.png	https://image.png
 🛠️ Tech Stack
 Frontend: React.js (or Vue.js/HTML+CSS+JS)
 
